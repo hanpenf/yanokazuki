@@ -51,7 +51,7 @@ public class Qes1_13 {
 		floatVar = 0.0F;
 		
 		// 倍精度浮動小数点数型　初期値を代入
-		doubleVar = 0.0;
+		doubleVar = 0.0D;
 		
 		// 文字型　初期値を代入
 		charVar = '\u0000';
